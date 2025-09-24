@@ -1,18 +1,14 @@
 # 👋 Hello! Welcome to my Github profile.
 ## Me chamo Thomás Moojen mas sou conhecido nas redes pelo apelido de "Vaamiv"!
 
+- Estudante de ADS do terceiro npivel pela Faculdade de Passo Fundo - RS (UPF)
 - 🔭 Atualmente estou trabalhando em desenvolvimento web
-- 🌱 Atualmente estou aprendendo Python, Javascript, HTML e CSS
+- 🌱 Atualmente estou aprendendo Python, Javascript, PHP, Laravel, Java, SQL
 - 👯 Estou procurando colaborar em projetos front-end e análise de dados
 - 🤔 Estou procurando ajuda com projetos de pequeno e médio porte para micro e pequenas empresas
 - 💬 Pergunte-me sobre como posso te ajudar a fazer o seu negócio crescer?
 - ⚡ Curiosidade: O termo “bug”, que determina uma falha ainda não identificada na execução de um software, significa, em português, “inseto”. Pois foi justamente um inseto o que causou o primeiro bug registrado na História, em 1947, quando a marinheira Grace Hopper descobriu uma mariposa presa em meio às engrenagens de seu computador Harvard Mark II.
 
-
-
-## Ferramentas e Tecnologias
-           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
 
 ## Contatos:
 
